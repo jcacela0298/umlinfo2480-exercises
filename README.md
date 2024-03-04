@@ -1,2 +1,2 @@
 # umlinfo2480-exercises
-This repository contains website database implementation projects.
+This repository will contain website database implementation projects.
